@@ -1,1 +1,1 @@
-[GitHub](https://github.com/AlekseyAsochakov/to-do-praktikum)
+https://github.com/AlekseyAsochakov/to-do-praktikum
